@@ -32,7 +32,7 @@ export default function Footer() {
               <div className="flex flex-col gap-1 sm:gap-2">
                 <h3 className="mb-1 sm:mb-2 uppercase text-neutral-400 text-xs sm:text-sm">Контакты</h3>
                 <a
-                  href="https://t.me/"
+                  href="https://max.ru/join/YifwYXwpscgR9FnKXgcUcLWJ7F6GgT3yq-ybNnn7ZMY"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
                   Telegram-чат

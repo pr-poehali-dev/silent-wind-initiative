@@ -15,7 +15,7 @@ export default function Header({ className }: HeaderProps) {
             Как это работает
           </a>
           <a
-            href="#contact"
+            href="https://max.ru/join/YifwYXwpscgR9FnKXgcUcLWJ7F6GgT3yq-ybNnn7ZMY"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
           >
             Вступить в чат

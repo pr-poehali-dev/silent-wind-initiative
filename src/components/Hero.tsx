@@ -33,7 +33,7 @@ export default function Hero() {
           Чат попутчиков Гусиноозёрска — едем вместе, платим меньше
         </p>
         <a
-          href="#about"
+          href="https://max.ru/join/YifwYXwpscgR9FnKXgcUcLWJ7F6GgT3yq-ybNnn7ZMY"
           className="inline-block mt-8 px-8 py-3 border border-white text-white uppercase text-sm tracking-wide hover:bg-white hover:text-black transition-all duration-300"
         >
           Как вступить

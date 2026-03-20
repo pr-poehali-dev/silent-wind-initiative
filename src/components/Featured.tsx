@@ -14,7 +14,7 @@ export default function Featured() {
           Мы не такси — мы соседи, которые едут в одну сторону. Никакой комиссии, никаких посредников. Просто договоритесь и поехали.
         </p>
         <a
-          href="https://t.me/"
+          href="https://max.ru/join/YifwYXwpscgR9FnKXgcUcLWJ7F6GgT3yq-ybNnn7ZMY"
           className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black cursor-pointer w-fit uppercase tracking-wide inline-block"
         >
           Вступить в чат
